@@ -26,10 +26,10 @@
 
 ## 🚀 Featured Systems
 
-### 🎓 CSAS – CapSU Smart Academic System
+### 🎓 CSAS – Smart Academic System
 > *Enterprise academic management for enrollment, grading, and administration.*
 - Key Features: Enrollment tracking, academic load monitoring, and multi-role dashboards.
-- Stack: Laravel, Livewire, Alpine.js, Tailwind CSS.
+- Stack: Laravel, Livewire, Tailwind CSS.
 <img src="https://github.com/charlesdcayetano/cayetanocharlesd/blob/main/screenshots/csas.png" width="100%" alt="CSAS Dashboard"/>
 
 ---
@@ -45,7 +45,7 @@
 ### 🏥 MediCore – Healthcare Management System
 > Centralized hospital management platform for Bailan District Hospital.
 - Key Features: Patient records, appointment scheduling, and inventory reporting.
-- Stack: TALL Stack (Tailwind, Alpine, Laravel, Livewire).
+- Stack: TALL Stack (Tailwind, Laravel).
 <img src="https://github.com/charlesdcayetano/cayetanocharlesd/blob/main/screenshots/medicore.png" width="100%" alt="MediCore Dashboard"/>
 
 ---
