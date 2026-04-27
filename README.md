@@ -6,10 +6,6 @@
   <img src="https://img.shields.io/github/followers/charlesdcayetano?label=Followers&style=social" />
 </p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=charlesdcayetano&theme=darkhub&no-bg=true" alt="trophy graph" />
-</div>
-
 ---
 
 ## 🚀 About Me
