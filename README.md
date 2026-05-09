@@ -80,4 +80,4 @@
 ---
 
 ## ⚡ Philosophy
-> Don't expect, b ur self.
+> Don't expect, be ur self.
