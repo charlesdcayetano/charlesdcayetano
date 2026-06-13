@@ -35,7 +35,7 @@
 ---
 
 ### 📊 Staff-Sync – HR Management System
-> Workforce optimization and automated payroll tracking.
+> Workforce optimization and automated payroll  tracking.
 - Key Features: Employee lifecycle management, leave tracking, and attendance analytics.
 - Stack: PHP Laravel, MySQL, Bootstrap.
 <img src="https://github.com/charlesdcayetano/cayetanocharlesd/blob/main/screenshots/Staff-HRMS.png" width="100%" alt="StaffSync Dashboard"/>
@@ -69,7 +69,7 @@
 
 ---
 
-## 📬 Connect With Me
+## 📬 Connect With Me 
 
 <div align="center">
   <a href="mailto:cayetanocharlesd92000@gmail.com"><img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" /></a>
@@ -80,4 +80,4 @@
 ---
 
 ## ⚡ Philosophy
-> Don't expect, be ur self.
+> Don't expect, be yourself.
