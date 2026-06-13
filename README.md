@@ -27,7 +27,7 @@
 ## 🚀 Featured Systems
 
 ### 🎓 CSAS – Smart Academic System
-> *Enterprise academic management for enrollment, grading, and administration.*
+> *Enterprise academic management for enrollment, grading,  and administration.*
 - Key Features: Enrollment tracking, academic load monitoring, and multi-role dashboards.
 - Stack: Laravel, Livewire, Tailwind CSS.
 <img src="https://github.com/charlesdcayetano/cayetanocharlesd/blob/main/screenshots/csas.png" width="100%" alt="CSAS Dashboard"/>
