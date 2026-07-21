@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 About Me
-💻 Front - End Developer specializing in robust system architectures.  
+💻 Front - End Developer | specializing in robust system architectures.  
 📍 Taguig City, Philippines  
 🏗️ I build real-world enterprise systems (Enrollment, HR, Academic, Healthcare).  
 🎯 Focused on scalable backends + clean, professional UI dashboards.
