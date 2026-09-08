@@ -23,53 +23,6 @@
   <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,react,tailwind,bootstrap,git,github,vscode" />
 </div>
 
----
-
-## 🚀 Featured Systems
-
-### 🎓 CSAS – Smart Academic System
-> *Enterprise academic management for enrollment, grading,  and administration.*
-- Key Features: Enrollment tracking, academic load monitoring, and multi-role dashboards.
-- Stack: Laravel, Livewire, Tailwind CSS.
-<img src="https://github.com/charlesdcayetano/cayetanocharlesd/blob/main/screenshots/csas.png" width="100%" alt="CSAS Dashboard"/>
-
----
-
-### 📊 Staff-Sync – HR Management System
-> Workforce optimization and automated payroll  tracking.
-- Key Features: Employee lifecycle management, leave tracking, and attendance analytics.
-- Stack: PHP Laravel, MySQL, Bootstrap.
-<img src="https://github.com/charlesdcayetano/cayetanocharlesd/blob/main/screenshots/Staff-HRMS.png" width="100%" alt="StaffSync Dashboard"/>
-
----
-
-### 🏥 MediCore – Healthcare Management System
-> Centralized hospital management platform for Bailan District Hospital.
-- Key Features: Patient records, appointment scheduling, and inventory reporting.
-- Stack: TALL Stack (Tailwind, Laravel).
-<img src="https://github.com/charlesdcayetano/cayetanocharlesd/blob/main/screenshots/medicore.png" width="100%" alt="MediCore Dashboard"/>
-
----
-
-## 📈 GitHub Statistics & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=charlesdcayetano&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://streak-stats.demolab.com?user=charlesdcayetano&theme=tokyonight&mode=daily" height="170" alt="streak graph" />
-</div>
-
-<br />
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/charlesdcayetano/charlesdcayetano/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/charlesdcayetano/charlesdcayetano/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/charlesdcayetano/charlesdcayetano/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
-
----
-
 ## 📬 Connect With Me 
 
 <div align="center">
