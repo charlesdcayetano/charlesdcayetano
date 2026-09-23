@@ -29,6 +29,5 @@
 </div>
 
 ---
-
 ## ⚡ Philosophy
 > Don't expect, be yourself.
