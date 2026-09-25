@@ -1,4 +1,5 @@
 <h1 align="center">Hi!👋 What's Up? I'm Charles D. Cayetano</h1>
+
 <h3 align="center">Front - End Developer | PHP Laravel • Vue • Typescript • React • MySQL • Postgres</h3>
 
 <p align="center">
@@ -22,7 +23,6 @@
   <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,react,tailwind,bootstrap,git,github,vscode" />
 </div>
 
-
 ## 📬 Connect With Me 
 
 <div align="center">
@@ -31,7 +31,7 @@
   <a href="https://charlesdcayetano.vercel.app/"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&style=for-the-badge" height="35" alt="portfolio logo" /></a>
 </div>
 
-
 ---
+
 ## ⚡ Philosophy
 > Don't expect, be yourself.
