@@ -6,8 +6,9 @@
   
   <img src="https://komarev.com/ghpvc/?username=charlesdcayetano&label=Profile%20Views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/charlesdcayetano?label=Followers&style=social" />
-  
+
 </p>
+
 ---
 ## 🚀 About Me
 💻 Front - End Developer | Aspiring Full -  Stack Developer | specializing in robust system architectures.  
@@ -16,6 +17,7 @@
 🎯 Focused on scalable backends + clean, professional UI dashboards.
 
 ---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
