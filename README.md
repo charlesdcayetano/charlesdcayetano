@@ -7,7 +7,7 @@
   
 </p>
 ---
-## 🚀 About Me
+🚀 About Me
 
 💻 Front - End Developer | Aspiring Full -  Stack Developer | specializing in robust system architectures.  
 📍 Panitan, Capiz, Philippines  
