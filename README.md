@@ -1,5 +1,5 @@
 <h1 align="center">Hi!👋 What's Up? I'm Charles D. Cayetano</h1>
-<h3 align="center">Front - End Developer | PHP Laravel • Vue • Typescript • React • MySQL • Postgres</h3>
+<h3 align="center">Full - Stack Developer | PHP Laravel • Vue • Typescript • React • MySQL • Postgres</h3>
 
 
 <p align="center">
