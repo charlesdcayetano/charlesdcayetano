@@ -1,4 +1,5 @@
 <h1 align="center">Hi!👋 What's Up? I'm Charles D. Cayetano</h1>
+
 <h3 align="center">Full - Stack Developer | PHP Laravel • Vue • Typescript • React • MySQL • Postgres</h3>
 
 
@@ -7,7 +8,9 @@
   <img src="https://img.shields.io/github/followers/charlesdcayetano?label=Followers&style=social" />
 </p>
 
+
 ---
+
 
 🚀 About Me
 💻 Front - End Developer | Aspiring Full -  Stack Developer | specializing in robust system architectures.  
@@ -22,7 +25,9 @@
   <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,react,tailwind,bootstrap,git,github,vscode" />
 </div>
 
+
 ## 📬 Connect With Me 
+
 
 <div align="center">
   <a href="mailto:cayetanocharlesd92000@gmail.com"><img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" /></a>
