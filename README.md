@@ -7,7 +7,9 @@
   <img src="https://img.shields.io/github/followers/charlesdcayetano?label=Followers&style=social" />
 </p>
 
+
 ---
+
 
 🚀 About Me
 💻 Front - End Developer | Aspiring Full -  Stack Developer | specializing in robust system architectures.  
