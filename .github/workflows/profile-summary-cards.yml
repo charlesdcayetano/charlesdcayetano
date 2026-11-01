@@ -1,0 +1,25 @@
+name: GitHub Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # every day at 00:00 UTC
+  workflow_dispatch:       # lets you click "Run workflow" manually
+
+jobs:
+  build:
+    name: Generate profile summary cards
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # Uses your personal access token if you added the secret
+          # SUMMARY_GITHUB_TOKEN, otherwise falls back to the built-in token.
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"   # change to "master" if that is your default branch
+          UTC_OFFSET: 8         # Philippines time
+          THEME: "tokyonight"   # only generate the theme used in the README
