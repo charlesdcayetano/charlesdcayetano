@@ -1,6 +1,6 @@
 <h1 align="center">Hi!👋 What's Up? I'm Charles D. Cayetano</h1>
 
-<h3 align="center">Full - Stack Developer | PHP Laravel • Vue • Typescript • React • MySQL • Postgres</h3>
+<h3 align="center">Full - Stack Developer | PHP Laravel • Vue • Typescript • React • Next • MySQL • Postgres</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=charlesdcayetano&label=Profile%20Views&color=0e75b6&style=flat" />
