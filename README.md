@@ -5,6 +5,7 @@
 
 
 <!-- ═══════════════════════ INTRO CARD ═══════════════════════ -->
+
 <table align="center">
   <tr>
     <td align="center" width="260">
