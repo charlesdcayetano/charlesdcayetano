@@ -3,7 +3,6 @@
   <img src="./banner.svg" alt="Charles D. Cayetano - Full-Stack Developer" width="100%" />
 </div>
 
-
 <!-- ═══════════════════════ INTRO CARD ═══════════════════════ -->
 
 <table align="center">
