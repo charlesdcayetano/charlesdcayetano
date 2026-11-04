@@ -2,9 +2,7 @@
 <div align="center">
   <img src="./banner.svg" alt="Charles D. Cayetano - Full-Stack Developer" width="100%" />
 </div>
-
 <!-- ═══════════════════════ INTRO CARD ═══════════════════════ -->
-
 <table align="center">
   <tr>
     <td align="center" width="260">
@@ -87,7 +85,6 @@
   <br />
   <sub>👆 Click to explore my full portfolio → <a href="https://chep.website"><b>chep.website</b></a></sub>
 </div>
-
 ---
 
 <!-- ═══════════════════════ FEATURED PROJECTS ═══════════════════════ -->
