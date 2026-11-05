@@ -2,7 +2,9 @@
 <div align="center">
   <img src="./banner.svg" alt="Charles D. Cayetano - Full-Stack Developer" width="100%" />
 </div>
+
 <!-- ═══════════════════════ INTRO CARD ═══════════════════════ -->
+
 <table align="center">
   <tr>
     <td align="center" width="260">
@@ -41,6 +43,7 @@
 ---
 
 <!-- ═══════════════════════ LIVE NUMBERS ═══════════════════════ -->
+
 ## 📈 My Numbers (Live)
 
 <div align="center">
@@ -52,6 +55,7 @@
 <br />
 
 <!-- Animated cards from github-profile-summary-cards (hosted API) -->
+
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=charlesdcayetano&theme=transparent&animation=rgb-soft&name=Chep" width="49%" alt="Profile details" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=charlesdcayetano&theme=transparent&animation=rgb-soft" width="49%" alt="GitHub stats" />
@@ -69,6 +73,7 @@
 <br />
 
 <!-- ═══════════════════════ STREAK ═══════════════════════ -->
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=charlesdcayetano&background=0D1117&border=0E75B6&stroke=0E75B6&ring=00D4FF&fire=00D4FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=8B949E&border_radius=12" alt="GitHub streak" />
 </div>
@@ -76,6 +81,7 @@
 ---
 
 <!-- ═══════════════════════ PORTFOLIO PREVIEW ═══════════════════════ -->
+
 ## 🖥️ Portfolio Preview
 
 <div align="center">
@@ -115,6 +121,7 @@
 ---
 
 <!-- ═══════════════════════ WHAT I BUILD ═══════════════════════ -->
+
 ## 🏗️ What I Build
 
 <div align="center">
@@ -135,6 +142,7 @@
 ---
 
 <!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -157,6 +165,7 @@
 ---
 
 <!-- ═══════════════════════ CONNECT ═══════════════════════ -->
+
 ## 📬 Connect With Me
 
 <div align="center">
@@ -169,6 +178,7 @@
 ---
 
 <!-- ═══════════════════════ PHILOSOPHY ═══════════════════════ -->
+
 ## ⚡ Philosophy
 
 <div align="center">
